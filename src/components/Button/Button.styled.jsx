@@ -6,6 +6,7 @@ const ButtonEl = styled.button`
   border-radius: 5px;
   border: 2px solid whitesmoke;
   font-weight: 500;
+  cursor: pointer;
   :not(:last-child) {
     margin-right: 10px;
   }
